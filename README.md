@@ -12,3 +12,8 @@ rm protoc-3.9.0-linux-x86_64.zip
 
 go get google.golang.org/protobuf/...@v1.25.0
 
+Chapter 3:
+
+go get google.golang.org/grpc@v1.32.0
+go get google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.0.0
+

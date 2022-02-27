@@ -17,3 +17,9 @@ Chapter 3:
 go get google.golang.org/grpc@v1.32.0
 go get google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.0.0
 
+Chapter 5:
+
+go get github.com/cloudflare/cfssl/cmd/cfssl@v1.4.1
+go get github.com/cloudflare/cfssl/cmd/cfssljson@v1.4.1
+
+go get github.com/casbin/casbin@v1.9.1

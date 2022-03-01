@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/tysonmote/gommap"
+	"github.com/nsip/gommap"
 )
 
 var (

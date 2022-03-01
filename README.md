@@ -23,3 +23,8 @@ go get github.com/cloudflare/cfssl/cmd/cfssl@v1.4.1
 go get github.com/cloudflare/cfssl/cmd/cfssljson@v1.4.1
 
 go get github.com/casbin/casbin@v1.9.1
+
+Chapter 6:
+
+go get go.uber.org/zap@v1.10.0
+go get go.opencensus.io@v0.22.2
